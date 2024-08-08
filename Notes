@@ -1,0 +1,8 @@
+1. Each run method has its own implementation and only contains single run logic
+So each run method now has single responsibility -> SRP
+
+
+DIP -> there should not be any tight coupling or hard dependency on
+ anything
+
+DIP -> loose coupling
